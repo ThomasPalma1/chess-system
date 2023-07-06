@@ -9,6 +9,10 @@ chess-system/.idea/*
 chess-system/.idea
 chess-system/.idea/
 
+chess-system/target/*
+chess-system/target
+chess-system/target/
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
