@@ -1,5 +1,7 @@
 package boardgame;
 
+import exceptions.BoardException;
+
 public class Board {
     private int rows;
     private int columns;

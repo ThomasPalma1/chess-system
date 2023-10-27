@@ -2,6 +2,7 @@ package chess;
 
 import boardgame.Board;
 import boardgame.Piece;
+import enums.Color;
 
 public class ChessPiece extends Piece {
     private Color color;

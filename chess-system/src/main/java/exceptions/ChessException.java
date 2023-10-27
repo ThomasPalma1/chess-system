@@ -1,4 +1,4 @@
-package chess;
+package exceptions;
 
 public class ChessException extends RuntimeException {
 
